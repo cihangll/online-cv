@@ -90,7 +90,8 @@ experiences:
 projects:
     title: Projeler
     intro: >
-      Çalıştığım şirkette yazılım projelerinin yanında logo tarafına entegre olan uygulamalar da geliştirdim.
+      Çalıştığım şirkette yazılım projelerinin yanında logo tarafına entegre olan uygulamalar da geliştirdim. 
+      Logo Object, Logo Flow teknolojilerinde de kendimi geliştirme fırsatım oldu.
       
     assignments:
       - title: İş Takip Sistemi 
@@ -114,16 +115,14 @@ projects:
         tagline: "E-Arşiv faturalarını otomatik olarak ilgili cariye mail olarak gönderen proje. Asp.net core, e-logo wcf servisi kullanıldı."
 
 publications:
-    title: Publications
+    title: Yayınlar, Projeler
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Aktif bir şekilde github kullanıyorum. Genellikle açık kaynak olan, başkalarına faydalı olabileceğini düşündüğüm projeleri paylaşıyorum. 
+      Vakit buldukça yeni öğrendiğim, detaylı öğrenmeye çalıştığım teknolojiler hakkında içerik yazıyorum. Bu içerikler genellikle benim deneyimlediğim ve başkalarına faydalı olabileceğini düşündüğüm notlar halinde oluyor.
+    
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: AspNetCore Uygulamasında Loglama, Serilog, Seq, Docker ve Github Action Kullanımı
+        link: "https://github.com/cihangll/aspnetcore-serilog-seq-docker-githubaction"
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
