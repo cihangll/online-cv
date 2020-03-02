@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: cihangullu54@gmail.com
     phone: 
-    website: github.com/gelis-tr-io/makaleler #do not add http://
+    website:  #do not add http://
     linkedin: cihangll
     github: cihangll
     gitlab:
     bitbucket:
-    twitter: ''
+    twitter: 
     stack-overflow: 8069766/cihan-güllü # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -82,53 +82,56 @@ projects:
       
     assignments:
       - title: İş Takip Sistemi 
-        link: "#"
         tagline: "Gönderilen mailleri otomatik olarak iş kaydına dönüştüren, var olan iş kayıtlarını güncelleyen iş takip sistemi. Asp.net core ile yazıldı."
 
       - title: Transay Web Api
-        link: "#"
         tagline: "Virman fişi aktarımı, cari güncelleme vb. özellikleri barındıran web api projesi. Asp.net core web api, logo objects kullanıldı."
 
       - title: KAÇUV Logo Crm Entegrasyonu
-        link: "#"
         tagline: "Belirtilen web apiden gelen bağış, bağışçıları alıp Logo Crm rest servisine ileten entegrasyon projesi. Asp.net core, Logo Crm Rest Api kullanıldı."
 
       - title: Şengüller Logo Tiger Enterprise Entegrasyonu
-        link: "#"
         tagline: "Turkcell Web Apiden gelen malzeme kartı, hizmet kartı, satış faturası, cari kartı gibi bilgileri Logo Tiger programına anlık olarak aktaran entegrasyon projesi. Asp.net core, Logo Objects kullanıldı."
 
       - title: Logo E-Arşiv Mail Servis
-        link: "#"
         tagline: "E-Arşiv faturalarını otomatik olarak ilgili cariye mail olarak gönderen proje. Asp.net core, e-logo wcf servisi kullanıldı."
 
 publications:
-    title: Yayınlar, Projeler
+    title: İçerikler, Projeler, Sertifikalar
     intro: |
       Aktif bir şekilde github kullanıyorum. Genellikle açık kaynak olan, başkalarına faydalı olabileceğini düşündüğüm projeleri paylaşıyorum. 
       Vakit buldukça yeni öğrendiğim, detaylı öğrenmeye çalıştığım teknolojiler hakkında içerik yazıyorum. Bu içerikler genellikle benim deneyimlediğim ve başkalarına faydalı olabileceğini düşündüğüm notlar halinde oluyor.
     
     papers:
-      - title: AspNetCore Uygulamasında Loglama, Serilog, Seq, Docker ve Github Action Kullanımı
+      - title: Proje - AspNetCore Uygulamasında Loglama, Serilog, Seq, Docker ve Github Action Projesi
         link: "https://github.com/cihangll/aspnetcore-serilog-seq-docker-githubaction"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Proje - Cross Cutting Concerns kütüphanesi - InterceptorDemo
+        link: "https://github.com/cihangll/InterceptorDemo"
+       
+      - title: Proje - Web Api kullanırken kolaylık sağlayan kütüphane - ConsumingWebApi
+        link: "https://github.com/cihangll/ConsumingWebApi"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: İçerik - Referans ve Değer Tipleri
+        link: "https://github.com/gelis-tr-io/makaleler/blob/master/csharp/value-type-and-reference-type/value-type-and-reference-type.md"
+
+      - title: İçerik - Nesneler Arasında Eşitlik
+        link: "https://github.com/gelis-tr-io/makaleler/blob/master/csharp/nesneler-arasinda-esitlik/nesneler-arasinda-esitlik.md"
+
+      - title: İçerik - Invariant, Covariant ve Contravariant Tipler
+        link: "https://github.com/gelis-tr-io/makaleler/blob/master/csharp/covariant-contravariant/covariant-contravariant.md"
+
+      - title: İçerik - Ref, In ve Out Anahtar Sözcüklerinin Kullanımı
+        link: "https://github.com/gelis-tr-io/makaleler/blob/master/csharp/ref-in-out-kullanimi/ref-in-out-kullanimi.md"
+
+      - title: İçerik - AspNetCore Uygulamasında Loglama, Serilog, Seq, Docker ve Github Action Kullanımı
+        link: "https://github.com/gelis-tr-io/makaleler/blob/master/csharp/serilog-seq-docker-githubaction/serilog-seq-docker-githubaction.md"
 
 skills:
     title: Tecrübeler
 
     toolset:
       - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
         level: 98%
 
       - name: Angular
