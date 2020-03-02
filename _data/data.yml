@@ -45,26 +45,32 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Hakkımda
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bilgisayar Mühendisliği - 2.89
+      university: Sülayman Demirel Üniversitesi
+      time: 2013 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Üniversitede yazılım ve donanım alanlarında çeşitli eğitimler aldım. Bu süre içerisinde daha çok yazılım tarafına ilgi gösterdim.
+        Edindiğim tecrübeler;
+            - Algoritma
+            - Nesneye yönelik programlama
+        Bu süre zarfında deneyimlediklerim;
+            - Servlet
+            - Jsp
+            - Jsf
+            - Spring framework
+            - Spring boot
+            - Android Programlama
+            - Unit 3D oyun programlama
+        Aldığım sertifikalar;
+            - [Android 101 Başarı Belgesi](https://gelecegiyazanlar.turkcell.com.tr/kisi/explat54/belge/android-101)
+            - [Android 201 Başarı Belgesi](https://gelecegiyazanlar.turkcell.com.tr/kisi/explat54/belge/android-201)
+            - [Android 301 Başarı Belgesi](https://gelecegiyazanlar.turkcell.com.tr/kisi/explat54/belge/android-301)
+            - [Android 401 Başarı Belgesi](https://gelecegiyazanlar.turkcell.com.tr/kisi/explat54/belge/android-401)
+            
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
