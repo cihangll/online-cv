@@ -76,6 +76,11 @@ education:
       time: 2012 - 2013
       details: |
       
+    - degree: Lise
+      university: Karasu Anadolu Öğretmen Lisesi 
+      time: 2008 - 2012
+      details: |
+      
 experiences:
     - role: Bilgisayar Mühendisi
       time: 2017 - Günümüz
@@ -83,31 +88,30 @@ experiences:
       details: |
       
 projects:
-    title: Projects
+    title: Projeler
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Çalıştığım şirkette yazılım projelerinin yanında logo tarafına entegre olan uygulamalar da geliştirdim.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: İş Takip Sistemi 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Gönderilen mailleri otomatik olarak iş kaydına dönüştüren, var olan iş kayıtlarını güncelleyen iş takip sistemi. Asp.net core ile yazıldı."
 
-      - title: Tempo
+      - title: Transay Web Api
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Virman fişi aktarımı, cari güncelleme vb. özellikleri barındıran web api projesi. Asp.net core web api, logo objects kullanıldı."
 
-      - title: Atom
+      - title: KAÇUV Logo Crm Entegrasyonu
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Belirtilen web apiden gelen bağış, bağışçıları alıp Logo Crm rest servisine ileten entegrasyon projesi. Asp.net core, Logo Crm Rest Api kullanıldı."
 
-      - title: Delta
+      - title: Şengüller Logo Tiger Enterprise Entegrasyonu
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Turkcell Web Apiden gelen malzeme kartı, hizmet kartı, satış faturası, cari kartı gibi bilgileri Logo Tiger programına anlık olarak aktaran entegrasyon projesi. Asp.net core, Logo Objects kullanıldı."
+
+      - title: Logo E-Arşiv Mail Servis
+        link: "#"
+        tagline: "E-Arşiv faturalarını otomatik olarak ilgili cariye mail olarak gönderen proje. Asp.net core, e-logo wcf servisi kullanıldı."
 
 publications:
     title: Publications
