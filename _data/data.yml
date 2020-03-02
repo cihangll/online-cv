@@ -7,43 +7,30 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Cihan Güllü
+    tagline: Back End Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: cihangullu54@gmail.com
+    phone: 
+    website: github.com/gelis-tr-io/makaleler #do not add http://
+    linkedin: cihangll
+    github: cihangll
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: ''
+    stack-overflow: 8069766/cihan-güllü # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
+      - idiom: İngilizce
+        level: Orta Seviye
+        
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
+      - item: Origami
+        
 career-profile:
     title: Hakkımda
     summary: |
@@ -83,6 +70,7 @@ education:
       
 experiences:
       title: Tecrübeler
+      
     - role: Bilgisayar Mühendisi
       time: 2017 - Günümüz
       company: İvme Bilişim, LOGO Çözüm Ortağı
