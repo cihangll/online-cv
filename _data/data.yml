@@ -32,32 +32,17 @@ sidebar:
       - item: Origami
         
 career-profile:
-    title: Hakkımda
+    title: HAKKIMDA
     summary: |
+      Merhaba ben Cihan. 1994 yılında Manisa'da doğdum. Lise sonda oyunların nasıl yapıldığını araştırırken yazılım ile tanıştım. 
+      O zamandan beri de yazılım ile ilgili konularda araştırma yapmayı, yeni şeyler öğrenmeyi ve öğrendiklerimi başkalarıyla paylaşmayı seviyorum.
       
 education:
     - degree: Bilgisayar Mühendisliği - 2.88
       university: Sülayman Demirel Üniversitesi
       time: 2013 - 2017
       details: |
-        Üniversitede yazılım ve donanım alanlarında çeşitli eğitimler aldım. Bu süre içerisinde daha çok yazılım tarafına ilgi gösterdim.
-        Edindiğim tecrübeler;
-            - Algoritma
-            - Nesneye yönelik programlama
-        Bu süre zarfında deneyimlediklerim;
-            - Servlet
-            - Jsp
-            - Jsf
-            - Spring framework
-            - Spring boot
-            - Android Programlama
-            - Unit 3D oyun programlama
-        Aldığım sertifikalar;
-            - [Android 101 Başarı Belgesi](https://gelecegiyazanlar.turkcell.com.tr/kisi/explat54/belge/android-101)
-            - [Android 201 Başarı Belgesi](https://gelecegiyazanlar.turkcell.com.tr/kisi/explat54/belge/android-201)
-            - [Android 301 Başarı Belgesi](https://gelecegiyazanlar.turkcell.com.tr/kisi/explat54/belge/android-301)
-            - [Android 401 Başarı Belgesi](https://gelecegiyazanlar.turkcell.com.tr/kisi/explat54/belge/android-401)
-            
+      
     - degree: İngilizce Hazırlık 
       university: Süleyman Demirel Üniversitesi 
       time: 2012 - 2013
@@ -75,37 +60,37 @@ experiences:
       details: |
       
 projects:
-    title: Projeler
+    title: PROJELER
     intro: >
-      Çalıştığım şirkette yazılım projelerinin yanında logo tarafına entegre olan uygulamalar da geliştirdim. 
-      Logo Object, Logo Flow teknolojilerinde de kendimi geliştirme fırsatım oldu.
+      Çalıştığım şirkette yazılım projeleri haricinde Logo Erp ile uyumlu uygulamalar da geliştirdim. 
+      Logo Object, Logo Flow ile ilgili de tecrübe edindim.
       
     assignments:
       - title: İş Takip Sistemi 
-        tagline: "Gönderilen mailleri otomatik olarak iş kaydına dönüştüren, var olan iş kayıtlarını güncelleyen iş takip sistemi. Asp.net core ile yazıldı."
+        tagline: "Gönderilen mailleri otomatik olarak iş kaydına dönüştüren, var olan iş kayıtlarını güncelleyen iş takip sistemi."
 
       - title: Transay Web Api
-        tagline: "Virman fişi aktarımı, cari güncelleme vb. özellikleri barındıran web api projesi. Asp.net core web api, logo objects kullanıldı."
+        tagline: "Virman fişi aktarımı, cari güncelleme vb. özellikleri barındıran web api projesi."
 
-      - title: KAÇUV Logo Crm Entegrasyonu
-        tagline: "Belirtilen web apiden gelen bağış, bağışçıları alıp Logo Crm rest servisine ileten entegrasyon projesi. Asp.net core, Logo Crm Rest Api kullanıldı."
+      - title: Kaçuv Logo Crm Entegrasyonu
+        tagline: "Web apiden gelen verileri alıp Logo Crm Rest servisine ileten, yönetim paneli olan uygulama."
 
       - title: Şengüller Logo Tiger Enterprise Entegrasyonu
-        tagline: "Turkcell Web Apiden gelen malzeme kartı, hizmet kartı, satış faturası, cari kartı gibi bilgileri Logo Tiger programına anlık olarak aktaran entegrasyon projesi. Asp.net core, Logo Objects kullanıldı."
+        tagline: "Turkcell Web Apiden gelen verileri Logo Tiger programına anlık olarak aktaran, yönetim paneli olan uygulama."
 
       - title: Logo E-Arşiv Mail Servis
-        tagline: "E-Arşiv faturalarını otomatik olarak ilgili cariye mail olarak gönderen proje. Asp.net core, e-logo wcf servisi kullanıldı."
+        tagline: "E-Arşiv faturalarını otomatik olarak ilgili cariye mail olarak gönderen uygulama."
 
+      - title: Logo Flow İş Akışı Projeleri
+        tagline: "Görev Seyahat Talebi, Avans Talebi, Masraf Beyanı, Personel Değerlendirme, Satınalma Siparişi vb. iş akışları geliştirdim."
+    
 publications:
-    title: İçerikler, Projeler, Sertifikalar
+    title: İÇERİKLER, PROJELER
     intro: |
-      Aktif bir şekilde github kullanıyorum. Genellikle açık kaynak olan, başkalarına faydalı olabileceğini düşündüğüm projeleri paylaşıyorum. 
+      Genellikle açık kaynak olan, başkalarına faydalı olabileceğini düşündüğüm projeleri paylaşıyorum. 
       Vakit buldukça yeni öğrendiğim, detaylı öğrenmeye çalıştığım teknolojiler hakkında içerik yazıyorum. Bu içerikler genellikle benim deneyimlediğim ve başkalarına faydalı olabileceğini düşündüğüm notlar halinde oluyor.
     
     papers:
-      - title: Proje - AspNetCore Uygulamasında Loglama, Serilog, Seq, Docker ve Github Action Projesi
-        link: "https://github.com/cihangll/aspnetcore-serilog-seq-docker-githubaction"
-
       - title: Proje - Cross Cutting Concerns kütüphanesi - InterceptorDemo
         link: "https://github.com/cihangll/InterceptorDemo"
        
@@ -131,20 +116,20 @@ skills:
     title: Tecrübeler
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C#, asp.net core, web api, entity framework, arkaplan servisleri
+        level: 65%
 
-      - name: Angular
-        level: 98%
+      - name: Mssql
+        level: 65%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Docker
         level: 60%
+        
+      - name: Angular (öğrenme aşaması)
+        level: 40%
+        
+      - name: Java, Servlet, Jsp, Jsf, Spring framework, Spring Boot (deneyimlediklerim)
+        level: 40%
 
 footer: >
     
