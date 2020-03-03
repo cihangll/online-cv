@@ -62,12 +62,12 @@ experiences:
 projects:
     title: PROJELER
     intro: >
-      Çalıştığım şirkette yazılım projeleri haricinde Logo Erp ile uyumlu uygulamalar da geliştirdim. 
-      Logo Object, Logo Flow ile ilgili de tecrübe edindim.
+      Çalıştığım şirkette yazılım projeleri haricinde Logo Erp ile birlikte çalışan uygulamalar da geliştirdim. 
+      Logo Tiger Enterprise, Logo Object, Logo Flow ile ilgili de tecrübe edindim.
       
     assignments:
       - title: İş Takip Sistemi 
-        tagline: "Gönderilen mailleri otomatik olarak iş kaydına dönüştüren, var olan iş kayıtlarını güncelleyen iş takip sistemi."
+        tagline: "Gönderilen mailleri otomatik olarak iş kaydına dönüştüren, var olan iş kayıtlarını da güncelleyerek iş kayıtlarının daha kolay yönetilebilmesini hedefleyen, yönetilebilir panele sahip uygulama."
 
       - title: Transay Web Api
         tagline: "Virman fişi aktarımı, cari güncelleme vb. özellikleri barındıran web api projesi."
@@ -82,13 +82,13 @@ projects:
         tagline: "E-Arşiv faturalarını otomatik olarak ilgili cariye mail olarak gönderen uygulama."
 
       - title: Logo Flow İş Akışı Projeleri
-        tagline: "Görev Seyahat Talebi, Avans Talebi, Masraf Beyanı, Personel Değerlendirme, Satınalma Siparişi vb. iş akışları geliştirdim."
+        tagline: "Görev Seyahat Talebi, Avans Talebi, Masraf Beyanı, Personel Değerlendirme, Satınalma Siparişi vb. iş akışları."
     
 publications:
     title: İÇERİKLER, PROJELER
     intro: |
-      Genellikle açık kaynak olan, başkalarına faydalı olabileceğini düşündüğüm projeleri paylaşıyorum. 
-      Vakit buldukça yeni öğrendiğim, detaylı öğrenmeye çalıştığım teknolojiler hakkında içerik yazıyorum. Bu içerikler genellikle benim deneyimlediğim ve başkalarına faydalı olabileceğini düşündüğüm notlar halinde oluyor.
+      Genellikle açık kaynak olan, başkalarına faydalı olabileceğini düşündüğüm projeleri github üzerinden paylaşıyorum. 
+      Vakit buldukça da yeni öğrendiğim, detaylı öğrenmeye çalıştığım teknolojiler hakkında içerik yazıyorum. Bu içerikler genellikle benim deneyimlediğim ve başkalarına faydalı olabileceğini düşündüğüm notlar halinde oluyor.
     
     papers:
       - title: Proje - Cross Cutting Concerns kütüphanesi - InterceptorDemo
@@ -116,20 +116,20 @@ skills:
     title: Tecrübeler
 
     toolset:
-      - name: C#, asp.net core, web api, entity framework, arkaplan servisleri
-        level: 65%
+      - name: C#, asp.net core
+        level: 70%
 
       - name: Mssql
         level: 65%
 
       - name: Docker
-        level: 60%
+        level: 65%
         
-      - name: Angular (öğrenme aşaması)
-        level: 40%
+      - name: Angular
+        level: 50%
         
-      - name: Java, Servlet, Jsp, Jsf, Spring framework, Spring Boot (deneyimlediklerim)
-        level: 40%
+      - name: Java, Servlet, Jsp, Jsf, Spring framework, Spring Boot
+        level: 20%
 
 footer: >
     
