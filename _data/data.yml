@@ -79,13 +79,13 @@ projects:
         tagline: "Turkcell Web Apiden gelen verileri Logo Tiger programına anlık olarak aktaran, yönetim paneli olan uygulama."
 
       - title: Logo E-Arşiv Mail Servis
-        tagline: "E-Arşiv faturalarını otomatik olarak ilgili cariye mail olarak gönderen uygulama."
+        tagline: "E-Arşiv faturalarını otomatik olarak ilgili cariye mail gönderen uygulama."
 
       - title: Logo Flow İş Akışı Projeleri
         tagline: "Görev Seyahat Talebi, Avans Talebi, Masraf Beyanı, Personel Değerlendirme, Satınalma Siparişi vb. iş akışları."
     
 publications:
-    title: İÇERİKLER, PROJELER
+    title: İÇERİKLER
     intro: |
       Genellikle açık kaynak olan, başkalarına faydalı olabileceğini düşündüğüm projeleri github üzerinden paylaşıyorum. 
       Vakit buldukça da yeni öğrendiğim, detaylı öğrenmeye çalıştığım teknolojiler hakkında içerik yazıyorum. Bu içerikler genellikle benim deneyimlediğim ve başkalarına faydalı olabileceğini düşündüğüm notlar halinde oluyor.
