@@ -74,6 +74,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Deniz Kuvvetleri Komutanligi",
+      link: "",
       badges: ["In Office"],
       start: "2020",
       end: "2021",
