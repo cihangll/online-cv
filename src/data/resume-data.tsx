@@ -163,7 +163,7 @@ export const RESUME_DATA = {
     },
     {
       title: "EfCoreRelationships",
-      techStack: ["C#", ".NET", "EF CORe"],
+      techStack: ["C#", ".NET", "EF Core"],
       description: "An example project with entityframework relationships.",
       link: {
         label: "github.com",
