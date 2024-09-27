@@ -121,6 +121,23 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "KariyerNet Recruitment App",
+      techStack: [
+        "C#",
+        ".NET",
+        "Docker",
+        "Blazor",
+        "PostgreSQL",
+        "RabbitMQ",
+        "ABP Framework",
+      ],
+      description: "TestCase Application",
+      link: {
+        label: "github.com",
+        href: "https://github.com/cihangll/KariyerNet.Recruitment",
+      },
+    },
+    {
       title: "aspnetcore-serilog-seq-docker-githubaction",
       techStack: ["C#", ".NET", "Serilog", "Docker", "Seq", "Github Actions"],
       description:
@@ -152,7 +169,7 @@ export const RESUME_DATA = {
     {
       title: "Kariyer GarantiBBVA",
       techStack: ["C#", ".NET", "ReactJs"],
-      description: "",
+      description: "Career Application",
       link: {
         label: "Kariyer GarantiBBVA",
         href: "https://kariyer.garantibbva.com.tr/",
