@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Gebze+Kocaeli",
   about: "Full Stack Developer",
   summary:
-    "I am a fullstack developer with 6 years of experience. I started my career with C# and .NET Core. Then, I gained experience in web services, background services and similar subjects. Afterwards, I experienced in populer frameworks like Blazor, React.js and Next.js. I am currently continuing to work as a full stack developer. When I have time, I try to improve myself in DDD and microservices.",
+    "I am a fullstack developer with 6 years of experience. I started my career with C# and .NET Core. Then, I gained experience in web services, background services and similar subjects. Afterwards, I experienced in popular frameworks like Blazor, React.js and Next.js. I am currently continuing to work as a full stack developer. When I have time, I try to improve myself in DDD and microservices.",
   personalWebsiteUrl: "https://github.com/cihangll",
   contact: {
     email: "cihangullu54@gmail.com",
