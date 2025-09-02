@@ -39,9 +39,9 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Senior FullStack Java Developer",
       start: "2024",
-      end: null,
+      end: "2025",
       description:
-        "I am currently developing the workflow project with spring boot. Technologies: JAVA, Spring Boot, Apache Kafka, Redis, PostgreSQL, ReactJs, NextJs, Docker ",
+        "Technologies: JAVA, Spring Boot, Apache Kafka, Redis, PostgreSQL, ReactJs, NextJs, Docker ",
     },
     {
       company: "BilgeAdam Technology",
